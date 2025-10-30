@@ -3,6 +3,7 @@
  *
  * @author Stefany Nicole Santos Alves - 20250021605
  */
+package exercicios;
 
 import java.util.Scanner;
 import java.util.ArrayList;
